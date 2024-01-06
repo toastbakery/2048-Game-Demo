@@ -1,5 +1,6 @@
 This is a front-end 2048 game demo that I wrote following a tutorial on YouTube.
-https://www.youtube.com/watch?v=wOVEe9eawXc&t=1234s
+👉 https://www.youtube.com/watch?v=wOVEe9eawXc&t=1234s
+Here are some notes I took at each period of the tutorial:
 
 ## 1 index.html  and style.css (🕰️ 00:00:00 - 00:13:00)
 ### index.html
