@@ -1,5 +1,17 @@
 This is a front-end 2048 game demo that I wrote following a tutorial on YouTube.
 👉 https://www.youtube.com/watch?v=wOVEe9eawXc&t=1234s
+
+## To run this project
+Local server is required to run this project, here are a few options:
+1. **Run this Project on Vscode**
+- open vscode, open project, then right click on the `index.html` , click "Show Preview". Once it is run on vscode, you can enter the same url in browser to access the game.
+	![[Pasted image 20240213163741.png]]
+2.  **Use a Simple HTTP Server:**
+- Open a terminal in the project directory.
+- If you have Python installed, you can use the following command to start a simple HTTP server: `python -m http.server 3000`
+- Alternatively, you can use Node.js and the `http-server` package: `npx http-server -p 3000`
+- Visit `http://127.0.0.1:3000/index.html` in your browser.
+
 Here are some notes I took at each period of the tutorial:
 
 ## 1 index.html  and style.css (🕰️ 00:00:00 - 00:13:00)
